@@ -1,0 +1,5 @@
+# só o que aparece no perfil vai para o GitHub; o resto é bancada local
+tools/
+avatar/
+previa/
+__pycache__/
