@@ -6,13 +6,11 @@ I came from video editing. Most of what's here started as a way to stop doing th
 
 ### Projects
 
-| Project | What it does | Latest |
-|:--|:--|:-:|
-| [Avatarize](https://github.com/rafaguiar-dev/avatarize) | Windows app that turns a photo plus audio (or text) into a talking avatar video, using your own HeyGen account through their official MCP server. | <!-- release:avatarize --><a href="https://github.com/rafaguiar-dev/avatarize/releases/tag/v1.2.0"><code>v1.2.0</code></a><br><sub>Oct&nbsp;3,&nbsp;2026</sub><!-- /release:avatarize --> |
-| [LoopVideo](https://github.com/rafaguiar-dev/loopvideo) | Windows app that turns one image into a 2:30 talking loop for VSLs, with Kling and FFmpeg. It asks before spending credits. | <!-- release:loopvideo --><a href="https://github.com/rafaguiar-dev/loopvideo/releases/tag/v2.0.0"><code>v2.0.0</code></a><br><sub>Sep&nbsp;28,&nbsp;2026</sub><!-- /release:loopvideo --> |
-| [Portfolio](https://github.com/rafaguiar-dev/rafaguiar-dev.github.io) | My site. Plain HTML, CSS and a canvas, no framework. | <a href="https://rafaguiar-dev.github.io/">site</a> |
-
-<sub>The Latest column is filled in every morning by a <a href="https://github.com/rafaguiar-dev/rafaguiar-dev/blob/main/scripts/update_readme.py">small script</a> on GitHub Actions.</sub>
+| Project | What it does |
+|:--|:--|
+| [Avatarize](https://github.com/rafaguiar-dev/avatarize) | Windows app that turns a photo plus audio (or text) into a talking avatar video, using your own HeyGen account through their official MCP server. |
+| [LoopVideo](https://github.com/rafaguiar-dev/loopvideo) | Windows app that turns one image into a 2:30 talking loop for VSLs, with Kling and FFmpeg. It asks before spending credits. |
+| [Portfolio](https://github.com/rafaguiar-dev/rafaguiar-dev.github.io) | My site, [rafaguiar-dev.github.io](https://rafaguiar-dev.github.io/). Plain HTML, CSS and a canvas, no framework. |
 
 ### Personal project
 
